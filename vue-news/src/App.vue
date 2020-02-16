@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    hello
+    <!-- url에 따라 <NewsView></NewsView> 등 대체 됨. -->
+    <router-view></router-view>
   </div>
 </template>
 
