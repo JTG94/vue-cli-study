@@ -2,7 +2,7 @@
 //여기서 router를 설정하면 너무 router 편향적으로 되기때문에 따로 router폴더를 만들어 관리
 import Vue from 'vue'
 import App from './App.vue'
-import { router } from './router/index.js'
+import { router } from './routes/index.js'
 
 Vue.config.productionTip = false
 
